@@ -1,0 +1,13 @@
+{
+    "name": "davizuku/insta-bot",
+    "type": "project",
+    "require": {
+        "facebook/graph-sdk": "^5.7"
+    },
+    "authors": [
+        {
+            "name": "David Álvarez Pons",
+            "email": "david_alvarezpons@hotmail.com"
+        }
+    ]
+}
