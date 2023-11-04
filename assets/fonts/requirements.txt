@@ -1,0 +1,7 @@
+ensure==1.0.3
+lxml @ file:///Users/runner/miniforge3/conda-bld/lxml_1695546691334/work
+mpmath==1.3.0
+setuptools==68.2.2
+six==1.16.0
+svgutils @ file:///home/conda/feedstock_root/build_artifacts/svgutils_1618391140123/work
+wheel==0.41.2
