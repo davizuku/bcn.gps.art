@@ -78,11 +78,11 @@ Source: https://stackoverflow.com/a/55935040
 After that your CSS should look like
 ```css
 @font-face {
-font-family: "<font-name>";
-src: url("<font-name>.eot");
-src: url("<font-name>.woff") format("woff"),
-url("<font-name>.otf") format("opentype"),
-url("<font-name>.svg#filename") format("svg");
+    font-family: "<font-name>";
+    src: url("<font-name>.eot");
+    src: url("<font-name>.woff") format("woff"),
+    url("<font-name>.otf") format("opentype"),
+    url("<font-name>.svg#filename") format("svg");
 }
 ```
 
